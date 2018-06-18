@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "482574634154",
+    "firebase_url": "https://database1-3868b.firebaseio.com",
+    "project_id": "database1-3868b",
+    "storage_bucket": "database1-3868b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482574634154:android:4d1356811a43531e",
+        "android_client_info": {
+          "package_name": "com.example.baggas.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482574634154-1p9oqikga1h7fn8k3scq2ijfd4k81b7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baggas.myapplication",
+            "certificate_hash": "48165743db4aefc3ea9a838a9b1fe59cccb06840"
+          }
+        },
+        {
+          "client_id": "482574634154-8o9kp6c2n75j2v9ap4uomhcc5hteks2f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "482574634154-8o9kp6c2n75j2v9ap4uomhcc5hteks2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2DbS7OHTOCU2IbgnxZLN9FKGQme8SmA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482574634154-8o9kp6c2n75j2v9ap4uomhcc5hteks2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
